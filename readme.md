@@ -26,7 +26,7 @@
 ###
 - Клонируем репозиторий
 ```
-https://github.com/Fhehq/Schedule.git
+https://github.com/Fhehq/Schedule-tg-bot.git
 ```
 ### 
 - Создаем .env файл
